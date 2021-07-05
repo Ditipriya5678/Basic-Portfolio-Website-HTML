@@ -1,2 +1,2 @@
 # CV
-This is a basic portfolio website made using HTML.
+This is a basic portfolio website made using HTML and CSS.
